@@ -1,0 +1,19 @@
+#memory {
+
+}
+
+.address {
+    font-family: D7CBI;
+    font-size: small;
+    color: rgb(136, 134, 134);
+}
+
+.mem_value {
+    font-family: D7CBI;
+}
+
+#display1 {
+    display: flex;
+    justify-content: center;
+}
+
